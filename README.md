@@ -3,7 +3,6 @@
 
 
 <div align="center">
-  <img src="[YOUR_BANNER_IMAGE_URL_OR_LEAVE_BLANK]" alt="Banner Image" width="100%"/>
   <h1>
     Hey there, I'm Shivam Giri 👋
   </h1>
@@ -16,13 +15,13 @@
   <a href="https://github.com/theshivamgiri">
     <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social" alt="GitHub Followers">
   </a>
-  <a href="[[YOUR_LINKEDIN_PROFILE_URL](https://www.linkedin.com/in/theshivamgiri/)]">
+  <a href="[[https://www.linkedin.com/in/theshivamgiri/]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="[YOUR_TWITTER_PROFILE_URL]">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="[[YOUR_PORTFOLIO_URL](https://shivam27pm.framer.website)]">
+  <a href="[[(https://shivam27pm.framer.website)]]">
     <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=your-logo-icon-if-any" alt="Portfolio">
   </a>
 </div>
