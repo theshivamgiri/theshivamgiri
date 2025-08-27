@@ -11,6 +11,8 @@
   </h3>
 </div>
 
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username)
+
 <div align="center">
   <a href="https://github.com/theshivamgiri">
     <img src="https://img.shields.io/github/followers/theshivamgiri?label=Followers&style=social" alt="GitHub Followers">
