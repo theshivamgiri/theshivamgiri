@@ -1,4 +1,3 @@
-## Hi there 👋
 
 
 
@@ -6,24 +5,24 @@
 <div align="center">
   <img src="[YOUR_BANNER_IMAGE_URL_OR_LEAVE_BLANK]" alt="Banner Image" width="100%"/>
   <h1>
-    Hey there, I'm [Your Name] 👋
+    Hey there, I'm Shivam Giri 👋
   </h1>
   <h3>
-    A Passionate [Your Role, e.g., Full-Stack Developer] from [Your Location]
+    An aspiring Product Manager from India
   </h3>
 </div>
 
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/theshivamgiri">
     <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social" alt="GitHub Followers">
   </a>
-  <a href="[YOUR_LINKEDIN_PROFILE_URL]">
+  <a href="[[YOUR_LINKEDIN_PROFILE_URL](https://www.linkedin.com/in/theshivamgiri/)]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="[YOUR_TWITTER_PROFILE_URL]">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="[YOUR_PORTFOLIO_URL]">
+  <a href="[[YOUR_PORTFOLIO_URL](https://shivam27pm.framer.website)]">
     <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=your-logo-icon-if-any" alt="Portfolio">
   </a>
 </div>
