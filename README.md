@@ -15,6 +15,16 @@
   <a href="https://github.com/theshivamgiri">
     <img src="https://img.shields.io/github/followers/theshivamgiri?label=Followers&style=social" alt="GitHub Followers">
   </a>
+  <a href="[https://www.linkedin.com/in/theshivamgiri/]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  
+</div>
+
+<div align="center">
+  <a href="https://github.com/theshivamgiri">
+    <img src="https://img.shields.io/github/followers/theshivamgiri?label=Followers&style=social" alt="GitHub Followers">
+  </a>
   <a href="[[https://www.linkedin.com/in/theshivamgiri/]">
         <img src="https://img.shields.io/Linkedin/followers/theshivamgiri?label=Followers&style=social" alt="Linkedin Followers">
 
