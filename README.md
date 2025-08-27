@@ -31,7 +31,7 @@
 ### 👨‍💻 About Me
 
 <p>
-  I am a [Your Role] with a strong passion for building innovative and efficient solutions. My journey in technology started with [mention your starting point or a key inspiration]. I thrive on turning complex problems into simple, beautiful, and intuitive designs.
+  I am an associate product manager with a strong passion for building innovative and efficient solutions. My journey in technology started with [mention your starting point or a key inspiration]. I thrive on turning complex problems into simple, beautiful, and intuitive designs.
 </p>
 
 
@@ -42,7 +42,7 @@
 -   📫 How to reach me: **shiv.giri2002@gmail.com**.
 -   ⚡ Fun fact: **Always ready to collaborate for a cup of coffee ;)**.
 
----
+<!---
 
 ### 🛠️ My Tech Stack & Skills
 
@@ -60,7 +60,7 @@
   <a href="[URL_TO_TECHNOLOGY_DOCS]"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
 </p>
 
----
+--->
 
 ### 📊 My GitHub Stats & Activity
 
