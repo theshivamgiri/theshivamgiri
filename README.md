@@ -34,13 +34,13 @@
   I am a [Your Role] with a strong passion for building innovative and efficient solutions. My journey in technology started with [mention your starting point or a key inspiration]. I thrive on turning complex problems into simple, beautiful, and intuitive designs.
 </p>
 
--   🔭 I’m currently working on **[Name of a Project or Technology you're focused on]**.
--   🌱 I’m currently learning **[A new technology or skill you are learning]**.
--   👯 I’m looking to collaborate on **[Types of projects you want to contribute to, e.g., open-source, AI/ML projects]**.
--   🤔 I’m looking for help with **[A concept or area where you're seeking guidance]**.
--   💬 Ask me about **[Topics you are knowledgeable and passionate about, e.g., React, Go, System Design]**.
--   📫 How to reach me: **[Your Professional Email Address]**.
--   ⚡ Fun fact: **[A fun, interesting fact about you]**.
+
+-   🔭 I’m currently working on **building MVPs**.
+-   🌱 I’m currently learning **everything thats coming in my way**.
+-   👯 I’m looking to collaborate on **entrepreneurial project**.
+-   💬 Ask me about **product, UI/UX, analysis, management, NoCode, AI, ML, DL etc**.
+-   📫 How to reach me: **shiv.giri2002@gmail.com**.
+-   ⚡ Fun fact: **Always ready to collaborate for a cup of coffee ;)**.
 
 ---
 
