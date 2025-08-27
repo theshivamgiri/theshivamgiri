@@ -11,7 +11,7 @@
   </h3>
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username)
+![Profile Views](https://komarev.com/ghpvc/?username=theshivamgiri)
 
 <div align="center">
   <a href="https://github.com/theshivamgiri">
