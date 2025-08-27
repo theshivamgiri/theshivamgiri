@@ -21,7 +21,7 @@
   </a>
   
   <a href="https://shivam27pm.framer.website/">
-    <img src="https://img.shields.io/badge/Portfolio?style=for-the-badge&logo=your-logo-icon-if-any" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Website?style=for-the-badge&logo=your-logo-icon-if-any" alt="Portfolio">
   </a>
 </div>
 
