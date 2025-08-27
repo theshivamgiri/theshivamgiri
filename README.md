@@ -15,24 +15,12 @@
   <a href="https://github.com/theshivamgiri">
     <img src="https://img.shields.io/github/followers/theshivamgiri?label=Followers&style=social" alt="GitHub Followers">
   </a>
-  <a href="[https://www.linkedin.com/in/theshivamgiri/]">
+  
+  <a href="https://www.linkedin.com/in/theshivamgiri/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   
-</div>
-
-<div align="center">
-  <a href="https://github.com/theshivamgiri">
-    <img src="https://img.shields.io/github/followers/theshivamgiri?label=Followers&style=social" alt="GitHub Followers">
-  </a>
-  <a href="[[https://www.linkedin.com/in/theshivamgiri/]">
-        <img src="https://img.shields.io/Linkedin/followers/theshivamgiri?label=Followers&style=social" alt="Linkedin Followers">
-
-  </a>
-  <a href="[YOUR_TWITTER_PROFILE_URL]">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="[[(https://shivam27pm.framer.website)]]">
+  <a href="https://shivam27pm.framer.website/">
     <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=your-logo-icon-if-any" alt="Portfolio">
   </a>
 </div>
