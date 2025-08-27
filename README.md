@@ -31,7 +31,7 @@
 ### 👨‍💻 About Me
 
 <p>
-  I am an associate product manager with a strong passion for building innovative and efficient solutions. My journey in technology started with [mention your starting point or a key inspiration]. I thrive on turning complex problems into simple, beautiful, and intuitive designs.
+A career in product management is built on a foundation of entrepreneurship and hands-on technical experience. After co-founding the EdTech company Champions, a passion was discovered for the full product lifecycle, from deep user research to shaping the final solution. This journey gave a unique perspective, combining the technical fluency of a developer with the strategic, user-focused mindset of a product leader. The person is most energized by the challenge of transforming complex user pain points into simple, beautiful, and highly intuitive product experiences
 </p>
 
 
@@ -62,6 +62,7 @@
 
 --->
 
+<!--
 ### 📊 My GitHub Stats & Activity
 
 <div align="center">
@@ -74,7 +75,9 @@
   <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
 
----
+--->
+
+<!--
 
 ### 🚀 My Featured Projects
 
@@ -117,7 +120,7 @@
   </tr>
 </table>
 
----
+--->
 
 ### 📞 Connect with Me
 
