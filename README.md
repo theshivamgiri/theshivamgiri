@@ -7,7 +7,7 @@
     Hey there, I'm Shivam Giri 👋
   </h1>
   <h3>
-    An aspiring Product Manager from India
+    An Product Manager from India
   </h3>
 </div>
 
